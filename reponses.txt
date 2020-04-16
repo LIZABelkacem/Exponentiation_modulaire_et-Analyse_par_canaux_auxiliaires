@@ -1,0 +1,15 @@
+Exercice 01:
+
+2- En comparant le resultat de la sonde pour chaque programme, ainsi que chaque graph accompagné situé dans le dossier "resultatsConso", on trouve une certaine correlation entre eux et les programmes une fois exécuté
+
+
+Exercice 02:
+
+8- On remarque que les deux resultats sont les memes, mais le calcul en python est beaucoup plus rapide, car la methode de Square and Multiply reduit considérablement le temps de calcul meme si l'exposant est de grande valeur
+
+
+Exercice 03:
+
+1- (b) on remarque que l'activité augumente a chaque fois qu'il ya de 1 dans l'exposant, on note aussi certain pics qui se repetent périodiquement durant l'exécution du calcul
+
+2- (b) 
